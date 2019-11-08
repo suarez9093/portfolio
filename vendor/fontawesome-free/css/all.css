@@ -1403,16 +1403,16 @@ readers do not read off random characters that represent icons */
 .fa-empire:before {
   content: "\f1d1"; }
 
-.fa-envelope:before {
+.fa-fa-linkedin:before {
   content: "\f0e0"; }
 
-.fa-envelope-open:before {
+.fa-fa-linkedin-open:before {
   content: "\f2b6"; }
 
-.fa-envelope-open-text:before {
+.fa-fa-linkedin-open-text:before {
   content: "\f658"; }
 
-.fa-envelope-square:before {
+.fa-fa-linkedin-square:before {
   content: "\f199"; }
 
 .fa-envira:before {
